@@ -1,0 +1,14 @@
+{
+    "id": "chardet_mcdr",
+    "version": "0.1.0",
+    "name": "Chardet MCDR",
+    "description": {
+        "en_us": "Try to add chardet to MCDR",
+        "zh_cn": "尝试在 MCDR 中加入 chardet，以部分解决解码问题."
+    },
+    "dependencies": {
+        "mcdreforged": "~=2.12.3"
+    },
+    "author": "Alex3236",
+    "link": "https://github.com/alex3236/chardet-mcdr"
+}
